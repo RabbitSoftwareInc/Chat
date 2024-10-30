@@ -2,6 +2,7 @@
 // Copyright (C) Rabbit Software 2024.
 
 // This filter meant to be used in these projects:
+// Chat
 // DVI Cable Simulator: Multiplayer
 
 #include "filter.h"
