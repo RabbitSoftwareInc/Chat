@@ -2,8 +2,7 @@
 // Copyright (C) Rabbit Software 2024.
 
 // This filter meant to be used in these projects:
-// DVI Cable Simulator: Chat
-// Doki Doki Literature Club C++: Chat
+// DVI Cable Simulator: Multiplayer
 
 #include "filter.h"
 #include "banned_words.h"
