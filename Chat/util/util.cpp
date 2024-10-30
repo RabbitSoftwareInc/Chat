@@ -60,7 +60,7 @@ std::wstring get_time()
 	return time;
 }
 
-// credits: DVI Cable Simulator, Doki Doki Literature Club C++
+// credits: DVI Cable Simulator
 void stream_music(void* src, DWORD size, HSTREAM& stream)
 {
 	BASS_ChannelStop(stream);
