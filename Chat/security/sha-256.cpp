@@ -1,8 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-// This is an independent project of an individual developer. Dear PVS-Studio, please check it.
-// PVS-Studio Static Code Analyzer for C, C++, C#, and Java: http://www.viva64.com
-
 #include <cstring>
 #include <fstream>
 #include "sha-256.h"
