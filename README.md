@@ -1,5 +1,5 @@
 # Chat
-Chat client based on WinSock, written in C++.
+Chat client based on WinSock, written in C++.  
 ![image](https://github.com/user-attachments/assets/89ca18bd-aaf5-4c9a-8068-24db34795ed9)
 
 ## Features
