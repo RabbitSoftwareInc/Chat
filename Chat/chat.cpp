@@ -1,7 +1,7 @@
-﻿// Chat client on TCP (WinSock) with full packet encryption.
+﻿// Chat client on WinSock with message encryption.
 // Copyright (C) Rabbit Software 2024.
 
-#define VERSION L"v1.5"
+#define VERSION L"v1.6"
 #define CHANGELOG L"29.10.2024: Fixed issues caused by packet fragmentation. Added support for custom localizations."
 
 #include "client_state.h"
